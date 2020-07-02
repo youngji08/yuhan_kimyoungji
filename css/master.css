@@ -1,0 +1,29 @@
+*{margin: 0; padding: 0;}
+body {font-size:25px; font-family:sans-serif;}
+ul{list-style:none;}
+img{border:0;}
+a{text-decoration:none; color:#000;}
+ 
+#wrap {width:1440px; margin:0 auto;}
+#header {width:1440px; height:119px; margin-bottom:20px; overfloat:hidden; background: #FFFFFF}
+
+/*메인*/
+.gnb {width:1440px; height:52px; background:#89cfda; float: none; margin-top:35px; overflow:hidden;font-family: 'Do Hyeon', sans-serif; front-size:30px;}
+
+.gnb li {float:left; width:360px; text-align:center;line-height:45px;}
+.gnb a {display:block; width:360px; height:47px; color:#000; background:#FFFFFF;}
+.gnb a:hover {color:#89cfda; background:#FFFFFF; font-size:35px;}
+
+/*메인 이미지*/
+.abc {display: inline-block;}
+
+/*서브*/
+.z1 {text-align: center;}
+
+/*푸터*/
+.footertext_form {width:1440px; height:50px; border-top:4px solid #89cfda; text-align:center;padding-top:20px;}
+
+
+
+
+
